@@ -1,0 +1,70 @@
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    
+}
+.slide1 {
+    position: fixed;
+    z-index: 2;
+    height: 800px;
+    width: 100%;
+    background: #F0DB4F;
+}
+
+
+.slide2 {
+    position: relative;
+    z-index: 10;
+    margin-top: 100%;
+    bottom: 0;
+    height: 1000px;
+    background: green;
+    width: 100%;
+}
+
+.slide3 {
+    position: relative;
+    z-index: 5;
+    margin-top: ;
+    bottom: 0;
+    height: 800px;
+    background: #6DF3FF;
+    width: 100%;
+}
+
+.reveal-me-holder {
+    height: 100px;
+}
+
+h1 {
+    color: #363E44;
+    font-size: 48pt;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.whitespace {
+    height: 200px;
+}
+
+#email {
+
+}
+
+.contact {
+    height: 400px;
+    font-size: 20pt;
+}
+
+#twitter {
+    margin-bottom: 150px;
+
+
+#vid {
+    margin-bottom: 200px;
+}
